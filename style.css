@@ -2,33 +2,12 @@
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('../TTLakes/TTLakesTTLakesTTLakes-DemiBold.eot');
-    src: local('TT Lakes DemiBold'), local('TTLakes-DemiBold'), url('../TTLakes/TTLakes-DemiBold.eot?#iefix') format('embedded-opentype'), url('../TTLakes/TTLakes-DemiBold.woff') format('woff'), url('../TTLakes/TTLakes-DemiBold.ttf') format('truetype');
+    src: url('TTLakes-DemiBold.eot');
+    src: local('TT Lakes DemiBold'), local('TTLakes-DemiBold'),
+        url('TTLakes-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('TTLakes-DemiBold.woff') format('woff'),
+        url('TTLakes-DemiBold.ttf') format('truetype');
     font-weight: 600;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'TT Lakes Compressed';
-    src: url('../TTLakes/TTLakesCompressed-Regular.eot');
-    src: local('TT Lakes Compressed Regular'), local('TTLakesCompressed-Regular'), url('../TTLakes/TTLakesCompressed-Regular.eot?#iefix') format('embedded-opentype'), url('../TTLakes/TTLakesCompressed-Regular.woff') format('woff'), url('../TTLakes/TTLakesCompressed-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'TT Lakes Condensed';
-    src: url('../TTLakes/TTLakesCondensed-Regular.eot');
-    src: local('TT Lakes Condensed Regular'), local('../TTLakes/TTLakesCondensed-Regular'), url('../TTLakes/TTLakesCondensed-Regular.eot?#iefix') format('embedded-opentype'), url('../TTLakes/TTLakesCondensed-Regular.woff') format('woff'), url('../TTLakes/TTLakesCondensed-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'TT Lakes Compressed1';
-    src: url('../TTLakes/TTLakesCondensed-Medium.eot');
-    src: local('TT Lakes Compressed Medium'), local('TTLakesCondensed-Medium'), url('../TTLakes/TTLakesCondensed-Medium.eot?#iefix') format('embedded-opentype'), url('../TTLakes/TTLakesCondensed-Medium.woff') format('woff'), url('../TTLakes/TTLakesCondensed-Medium.ttf') format('truetype');
-    font-weight: 500;
     font-style: normal;
 }
 
